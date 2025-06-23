@@ -45,7 +45,6 @@ For each case:
 
 - Python 3.x
 - `numpy`, `pandas`, `matplotlib`, `scipy`
-- Jupyter Notebook
 
 Install using:
 ```bash
